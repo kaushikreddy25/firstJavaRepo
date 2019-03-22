@@ -1,0 +1,10 @@
+package self_learning;
+
+public class MyException extends Exception
+{
+	MyException(String message)
+	{
+		
+		super(message);
+	}
+}
